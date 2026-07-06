@@ -1,7 +1,5 @@
 # Station météo connectée
 
-# Robot aspirateur (Roomba)
-
 Objectif:
 L’objectif de ce projet était de concevoir une station météo embarquée capable de mesurer différentes données environnementales en temps réel, puis de les traiter et les afficher localement tout en exploitant des informations récupérées sur Internet. Le projet visait également à découvrir l’intégration de capteurs, la communication réseau et l’utilisation d’un microcontrôleur dans une application IoT complète.
 
